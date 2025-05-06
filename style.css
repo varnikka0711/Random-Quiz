@@ -1,5 +1,5 @@
 *{
-    background-color: #553b4c;
+    background-color: #ded6db;
 }
 h1{
     color: #ce7b9a;
@@ -8,15 +8,15 @@ h2{
     color: #cf2566;
 }
 h3{
-    color: #FFC1DA;
+    color: #c7869f;
     font-style: normal;
 }
 ul{
-    color: #FFB8E0;
+    color: #fda2d6;
     cursor: pointer;
 }
 .correct:hover{
-    color: #BE5985;
+    color: #e14088;
 }
 .wrong:hover{
     color: #AA60C8;

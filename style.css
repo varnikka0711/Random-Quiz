@@ -1,28 +1,5 @@
 *{
-    background-color: #000000;
-}
-h1{
-    color: #ce7b9a;
-}
-h2{
-    color: #cf2566;
-}
-h3{
-    color: #FFC1DA;
-    font-style: normal;
-}
-ul{
-    color: #FFB8E0;
-    cursor: pointer;
-}
-.correct:hover{
-    color: #BE5985;
-}
-.wrong:hover{
-    color: #AA60C8;
-}
-*{
-    background-color: #000000;
+    background-color: #553b4c;
 }
 h1{
     color: #ce7b9a;
